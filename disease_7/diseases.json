@@ -1,0 +1,22 @@
+[
+    {
+      "disid": "D001",
+      "name": "Common Cold",
+      "description": "Viral infection of the upper respiratory tract"
+    },
+    {
+      "disid": "D002",
+      "name": "Hypertension",
+      "description": "High blood pressure condition"
+    },
+    {
+      "disid": "D003",
+      "name": "Diabetes",
+      "description": "Metabolic disease causing high blood sugar"
+    },
+    {
+      "disid": "D004",
+      "name": "Asthma",
+      "description": "Chronic respiratory condition"
+    }
+  ]

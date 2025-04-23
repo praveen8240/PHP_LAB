@@ -1,0 +1,34 @@
+[
+    {
+      "pid": "P001",
+      "pname": "John Doe",
+      "disid": "D001",
+      "disease_name": "Common Cold",
+      "drid": "DR001",
+      "drname": "Dr. Smith"
+    },
+    {
+      "pid": "P002",
+      "pname": "Jane Smith",
+      "disid": "D003",
+      "disease_name": "Diabetes",
+      "drid": "DR002",
+      "drname": "Dr. Johnson"
+    },
+    {
+      "pid": "P003",
+      "pname": "Mike Johnson",
+      "disid": "D002",
+      "disease_name": "Hypertension",
+      "drid": "DR001",
+      "drname": "Dr. Smith"
+    },
+    {
+      "pid": "P004",
+      "pname": "Sarah Williams",
+      "disid": "D004",
+      "disease_name": "Asthma",
+      "drid": "DR003",
+      "drname": "Dr. Williams"
+    }
+  ]

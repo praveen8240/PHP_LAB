@@ -1,0 +1,20 @@
+[
+    {
+      "drid": "DR001",
+      "name": "Dr. Smith",
+      "specialization": "General Medicine",
+      "disease_ids": ["D001", "D002"]
+    },
+    {
+      "drid": "DR002",
+      "name": "Dr. Johnson",
+      "specialization": "Endocrinology",
+      "disease_ids": ["D003"]
+    },
+    {
+      "drid": "DR003",
+      "name": "Dr. Williams",
+      "specialization": "Pulmonology",
+      "disease_ids": ["D004", "D001"]
+    }
+  ]
