@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     foreach ($users as $user) {
         if ($user['email'] == $email && $user['password'] == $password) {
-            setcookie('user', $user['name'], time() + (86400 * 30), "/"); // 30 days expiration
+            setcookie('user', $user['name']);
             header("Location: index.php");
             exit();
         }
